@@ -3,6 +3,11 @@ Proof of concept for supporting better typescript highlighting and semantic toke
 
 It's hosted on GitHub pages so you can play with it: https://tspoc.pistonite.dev
 
+## Performance
+Range and debounce is implemented. In the hosted example, max length is disabled. You can try
+to paste in a very large file (like ts.worker.js from bundled monaco-editor), and enable 6x CPU slow
+down in devtool. It should still perform very well.
+
 ## Status
 I do plan to upstream this. If you like this, please upvote the relevant issues/PRs!
 
