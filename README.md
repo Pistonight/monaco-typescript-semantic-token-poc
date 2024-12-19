@@ -18,6 +18,6 @@ I do plan to upstream this. If you like this, please upvote the relevant issues/
 
 ## Source
 I originally started working on this as part of another project. You can find the source code
-[here](https://github.com/Pistonite/botw-ist/tree/9b28fc625382a09bbecf751a11b0f2c9bc5c195b/packages/monaco-typescript-contrib/src)
+[here](https://github.com/Pistonite/botw-ist/tree/215b12ebe9a7efcaabafd9ee1b97f1338521336f/packages/monaco-typescript-contrib/src)
 
 If the patch doesn't get accepted in the upstream, you can reference that to implement it yourself.
