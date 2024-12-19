@@ -9,7 +9,7 @@ to paste in a very large file (like ts.worker.js from bundled monaco-editor), an
 down in devtool. It should still perform very well.
 
 ## Status
-I do plan to upstream this. If you like this, please upvote the relevant issues/PRs!
+I do plan to upstream this. If you like this, please upvote the relevant [issues](https://github.com/microsoft/monaco-editor/issues/2872)/PRs!
 
 - Pending review: Add the tokens to builtin themes: https://github.com/microsoft/vscode/pull/236441
 - Pending review: Exposing the Semantic Token API: https://github.com/microsoft/monaco-editor/pull/4788
